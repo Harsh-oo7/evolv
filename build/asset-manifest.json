@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evolv/static/css/main.bf11e07b.chunk.css",
+    "main.js": "/evolv/static/js/main.f0432e05.chunk.js",
+    "main.js.map": "/evolv/static/js/main.f0432e05.chunk.js.map",
+    "runtime-main.js": "/evolv/static/js/runtime-main.b1adb6da.js",
+    "runtime-main.js.map": "/evolv/static/js/runtime-main.b1adb6da.js.map",
+    "static/js/2.68f2842f.chunk.js": "/evolv/static/js/2.68f2842f.chunk.js",
+    "static/js/2.68f2842f.chunk.js.map": "/evolv/static/js/2.68f2842f.chunk.js.map",
+    "static/js/3.586a3185.chunk.js": "/evolv/static/js/3.586a3185.chunk.js",
+    "static/js/3.586a3185.chunk.js.map": "/evolv/static/js/3.586a3185.chunk.js.map",
+    "index.html": "/evolv/index.html",
+    "static/css/main.bf11e07b.chunk.css.map": "/evolv/static/css/main.bf11e07b.chunk.css.map",
+    "static/js/2.68f2842f.chunk.js.LICENSE.txt": "/evolv/static/js/2.68f2842f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1adb6da.js",
+    "static/js/2.68f2842f.chunk.js",
+    "static/css/main.bf11e07b.chunk.css",
+    "static/js/main.f0432e05.chunk.js"
+  ]
+}
