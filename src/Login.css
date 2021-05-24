@@ -1,0 +1,29 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  /* border: 4px solid lightgray; */
+  /* border-radius: 5px; */
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+.login > button {
+  background: #f0c14b;
+  border-radius: 2px;
+  width: 50px;
+  height: 30px;
+  border: 1px solid;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-color: #a88734 #9c7e31 #846a29;
+}
+
+.login__first{
+  margin: 30px;
+}
+
+.login__second {
+  margin: 30px;
+}
